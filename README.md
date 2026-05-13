@@ -30,4 +30,3 @@ I am open to collaboration on **Web3 products, native technology education, AI t
 
 - GitHub: [@Techpidgin](https://github.com/Techpidgin)
 - X/Twitter: [@underblockHQ](https://x.com/underblockHQ)
-- Location: Lagos, Nigeria
